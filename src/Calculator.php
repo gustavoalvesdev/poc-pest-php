@@ -13,4 +13,9 @@ class Calculator
     {
         return $a - $b;
     }
+
+    public function test(): string
+    {
+        return 'Test';
+    }
 }
