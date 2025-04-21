@@ -1,8 +1,7 @@
 {
     "name": "gustavoalvesdev/poc-pest-php",
-    "require": {},
     "require-dev": {
-        "pestphp/pest": "^2.0",
+        "pestphp/pest": "^2.36",
         "phpunit/phpunit": "^10.0"
     },
     "autoload": {
